@@ -1,4 +1,4 @@
-[1] S.Y. Barysenka and V.I. Vorobiov, **“SNR-Based Inter-Component Phase Estimation Using Bi-Phase Prior Statistics for Single-Channel Speech Enhancement,”** *Accepted for publication in IEEE/ACM Transactions on Audio, Speech and Language Processing*, Vol. 31, 2023. [DOI](https://doi.org/10.1109/TASLP.2023.3284514) [PDF](https://github.com/SiarheiBarysenka/Publications/blob/main/2023-barysenka.pdf)
+[1] S.Y. Barysenka and V.I. Vorobiov, **“SNR-Based Inter-Component Phase Estimation Using Bi-Phase Prior Statistics for Single-Channel Speech Enhancement,”** *Accepted for publication in IEEE/ACM Transactions on Audio, Speech and Language Processing*, vol. 31, 2023. [DOI](https://doi.org/10.1109/TASLP.2023.3284514) [PDF](https://github.com/SiarheiBarysenka/Publications/blob/main/2023-barysenka.pdf)
 
 [2] V.I. Vorobiov, D.A. Kechik, and S.Y. Barysenka, **“Inter-Component Phase Processing of Quasipolyharmonic Signals,”** *Applied Acoustics*, vol. 177, p. 107937, 2021. [DOI](https://doi.org/10.1016/j.apacoust.2021.107937) [PDF](https://github.com/SiarheiBarysenka/Publications/blob/main/2021-vorobiov.pdf)
 
