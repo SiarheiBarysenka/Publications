@@ -3,19 +3,112 @@
 
 @import "{{ site.theme }}";
 
-// Define variables for dark mode
-$dark-background-color: #333;
-$dark-text-color: #fff;
-
-// Default styles
 .inner {
   width: 60%;
 }
 
-// Dark mode styles
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: $dark-background-color;
-    color: $dark-text-color;
+    background: #121212;
+    color: #c9d1d9;
+    text-shadow: none;
+  }
+
+  #container {
+    background-image: none;
+  }
+
+  header h1 {
+    color: #e6e6e6;
+  }
+
+  header h2 {
+    color: #8b949e;
+  }
+
+  a {
+    color: #ff6b6b;
+  }
+
+  a:hover {
+    color: #ff8787;
+  }
+
+  h2 {
+    color: #e6e6e6;
+  }
+
+  h3 {
+    color: #ff6b6b;
+  }
+
+  h4, h5, h6 {
+    color: #e6e6e6;
+  }
+
+  dl dt {
+    color: #e6e6e6;
+  }
+
+  code {
+    background-color: #2d2d2d;
+    color: #e6e6e6;
+    border-color: #444;
+  }
+
+  pre {
+    background: #1e1e1e;
+  }
+
+  pre code {
+    background-color: #1e1e1e;
+    color: #f2f2f2;
+  }
+
+  table {
+    border-color: #333;
+  }
+
+  td {
+    border-color: #333;
+  }
+
+  blockquote {
+    border-left-color: #444;
+  }
+
+  footer {
+    color: #8b949e;
+    background-image: none;
+    border-top: 1px solid #333;
+  }
+
+  footer a {
+    color: #8b949e;
+  }
+
+  footer a:hover {
+    color: #c9d1d9;
+  }
+
+  hr {
+    background-image: none;
+    border-bottom: 1px solid #333;
+  }
+
+  a.button {
+    color: #e6e6e6;
+    background: #2d2d2d;
+    border-color: #444;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  a.button:hover {
+    background: #383838;
+    border-color: #555;
+  }
+
+  form {
+    background: #2d2d2d;
   }
 }
